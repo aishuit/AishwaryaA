@@ -6,10 +6,10 @@
 
 ---
 
-<div align="center">
+
 
 ### 👋 Hi, I'm Aishwarya!
-### 🚀 A Passionate Full Stack Developer from India
+### 🚀 A Passionate Full Stack Developer 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=aishuit&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/aishuit)
 [![GitHub followers](https://img.shields.io/github/followers/aishuit?label=Followers&style=social)](https://github.com/aishuit)
@@ -104,20 +104,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aishuit&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aishuit&theme=github-dark-blue&hide_border=true" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishuit&layout=compact&theme=github_dark&hide_border=true" width="40%" />
-
-</div>
-
----
 
 ## 🏆 Achievements
 
@@ -158,6 +145,7 @@
 - 🧳 Open to: **Full-time Full Stack Developer roles**
 
 ---
+
 
 <div align="center">
 
